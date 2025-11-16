@@ -1,0 +1,2 @@
+dataset,type,model,spearman_vs_gold
+STS-B,sentence,sbert_minilm,0.8481669456319215

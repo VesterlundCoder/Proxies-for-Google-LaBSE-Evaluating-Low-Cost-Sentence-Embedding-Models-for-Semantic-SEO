@@ -1,0 +1,9 @@
+dataset,type,model,spearman_vs_gold
+STS-B,sentence,sbert_mpnet,0.8668882980748803
+STS-B,sentence,sbert_minilm,0.8376014226076739
+STS-B,sentence,labse,0.7577198726278465
+STS-B,sentence,gte_base,0.8746799513388899
+SimLex-999,word,sbert_mpnet,0.5361691166322023
+SimLex-999,word,sbert_minilm,0.4461830807908215
+SimLex-999,word,labse,0.6187297430338341
+SimLex-999,word,gte_base,0.3733479644597456

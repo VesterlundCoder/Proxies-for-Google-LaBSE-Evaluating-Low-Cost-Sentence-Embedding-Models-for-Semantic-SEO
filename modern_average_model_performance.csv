@@ -1,0 +1,5 @@
+model,mean,std
+gte_base,0.624,0.3545
+labse,0.6882,0.0983
+sbert_minilm,0.6419,0.2768
+sbert_mpnet,0.7015,0.2339
